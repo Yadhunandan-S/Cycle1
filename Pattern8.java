@@ -5,7 +5,7 @@
 //  32123
 //   212
 //    1
-public class DiamondPattern {
+public class Pattern8 {
     public static void main(String[] args) {
         printDiamondPattern(4); // Adjust the parameter to change the number of rows
     }
