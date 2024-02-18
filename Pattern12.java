@@ -1,3 +1,14 @@
+// * * * * * 
+//  * * * * 
+//   * * * 
+//    * * 
+//     * 
+//     * 
+//    * * 
+//   * * * 
+//  * * * * 
+// * * * * * 
+
 public class Pattern12 {
     public static void main(String[] args) {
         printPattern(5); // Adjust the parameter to change the number of rows
